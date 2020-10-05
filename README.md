@@ -13,3 +13,17 @@ Pug 은 MVC 中 V다. ㅋㅋ
 M-odel Data : 데이터
 V-iew how does the data look : 데이터가 어떻게 생겼는지
 C-ontroller function that looks for the data : 데이터를 보여주는 함수 , 패턴, 스트럭쳐 같은 것
+
+## Pages: 
+
+- [ ] Home
+- [ ] Join
+- [ ] Login
+- [x] Search
+- [ ] User Detail  
+- [ ] Edit Profile
+- [ ] Change Password
+- [ ] Upload 
+- [ ] Video Detail
+- [ ] Edit Video
+
