@@ -17,8 +17,8 @@ C-ontroller function that looks for the data : 데이터를 보여주는 함수 
 ## Pages: 
 
 - [ ] Home
-- [ ] Join
-- [ ] Login
+- [x] Join
+- [x] Login
 - [x] Search
 - [ ] User Detail  
 - [ ] Edit Profile
